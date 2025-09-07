@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DPAT", "DPAT", "{E0E3AE85-CF9D-9606-B651-28241EAA23C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "designpattern-practice", "DPAT\designpattern-practice\designpattern-practice.csproj", "{55641587-89AC-9F23-7CD1-A322DFA90D4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "facadepattern", "DPAT\facadepattern\facadepattern.csproj", "{10C9EAEE-126C-462F-8F82-F43AA28B97EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55641587-89AC-9F23-7CD1-A322DFA90D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55641587-89AC-9F23-7CD1-A322DFA90D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55641587-89AC-9F23-7CD1-A322DFA90D4E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{55641587-89AC-9F23-7CD1-A322DFA90D4E}.Debug|x64.Build.0 = Debug|Any CPU
+		{55641587-89AC-9F23-7CD1-A322DFA90D4E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{55641587-89AC-9F23-7CD1-A322DFA90D4E}.Debug|x86.Build.0 = Debug|Any CPU
+		{55641587-89AC-9F23-7CD1-A322DFA90D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55641587-89AC-9F23-7CD1-A322DFA90D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55641587-89AC-9F23-7CD1-A322DFA90D4E}.Release|x64.ActiveCfg = Release|Any CPU
+		{55641587-89AC-9F23-7CD1-A322DFA90D4E}.Release|x64.Build.0 = Release|Any CPU
+		{55641587-89AC-9F23-7CD1-A322DFA90D4E}.Release|x86.ActiveCfg = Release|Any CPU
+		{55641587-89AC-9F23-7CD1-A322DFA90D4E}.Release|x86.Build.0 = Release|Any CPU
+		{10C9EAEE-126C-462F-8F82-F43AA28B97EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C9EAEE-126C-462F-8F82-F43AA28B97EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C9EAEE-126C-462F-8F82-F43AA28B97EF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{10C9EAEE-126C-462F-8F82-F43AA28B97EF}.Debug|x64.Build.0 = Debug|Any CPU
+		{10C9EAEE-126C-462F-8F82-F43AA28B97EF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{10C9EAEE-126C-462F-8F82-F43AA28B97EF}.Debug|x86.Build.0 = Debug|Any CPU
+		{10C9EAEE-126C-462F-8F82-F43AA28B97EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C9EAEE-126C-462F-8F82-F43AA28B97EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C9EAEE-126C-462F-8F82-F43AA28B97EF}.Release|x64.ActiveCfg = Release|Any CPU
+		{10C9EAEE-126C-462F-8F82-F43AA28B97EF}.Release|x64.Build.0 = Release|Any CPU
+		{10C9EAEE-126C-462F-8F82-F43AA28B97EF}.Release|x86.ActiveCfg = Release|Any CPU
+		{10C9EAEE-126C-462F-8F82-F43AA28B97EF}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{55641587-89AC-9F23-7CD1-A322DFA90D4E} = {E0E3AE85-CF9D-9606-B651-28241EAA23C5}
+		{10C9EAEE-126C-462F-8F82-F43AA28B97EF} = {E0E3AE85-CF9D-9606-B651-28241EAA23C5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {926586FB-6027-4520-AA3B-20C18771A6C9}
+	EndGlobalSection
+EndGlobal
